@@ -1,3 +1,4 @@
+
 # Review: Strings Lab
 
 ## Learning Goals
@@ -30,7 +31,7 @@ const currentUser = 'Grace Hopper';
 
 > **Note**: Generally, when the tests ask you to define something, you want to
 > define it exactly as indicated in the test. But in this case, you don't have
-> to write `'Grace Hopper'`, because the important part is the variable name:
+> t3]o write `'Grace Hopper'`, because the important part is the variable name:
 > `currentUser`.  You can use your own name, your pet's name, your favorite
 > programmer's name — whatever you'd like.
 
